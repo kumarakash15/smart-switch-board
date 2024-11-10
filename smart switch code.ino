@@ -1,8 +1,3 @@
-/*********
-made by Shagun
-
-*********/
-
 // Load Wi-Fi library
 
 
